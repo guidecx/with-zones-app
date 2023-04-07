@@ -21,7 +21,7 @@ export default function Blog() {
       <br />
       <Link href="../about">About page - do not work</Link>
       <br />
-      <Link href={fullURL}>About page - do not work</Link>
+      <Link href={fullURL}>About page - works</Link>
       <br />
     </div>
   );
